@@ -1,0 +1,9 @@
+com\tabeldata\bootcamp\web\springbootweb\SpringbootWebApplication.class
+com\tabeldata\bootcamp\web\springbootweb\model\Category.class
+com\tabeldata\bootcamp\web\springbootweb\dao\CategoryDao.class
+com\tabeldata\bootcamp\web\springbootweb\dao\ExampleDao.class
+com\tabeldata\bootcamp\web\springbootweb\controller\HaloController.class
+com\tabeldata\bootcamp\web\springbootweb\model\Example.class
+com\tabeldata\bootcamp\web\springbootweb\dao\ExampleDao$RowMapperInner.class
+com\tabeldata\bootcamp\web\springbootweb\dao\CategoryDao$RowMapperInner.class
+com\tabeldata\bootcamp\web\springbootweb\controller\HaiController.class
